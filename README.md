@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @StranDutton
--  I’m interested in home automation and software development!
+👋 Hi, I’m @StranDutton
+I’m interested in home automation and software development!
 
 <!---
 StranDutton/StranDutton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
